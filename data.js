@@ -40,6 +40,18 @@ var APP_DATA = {
           "pitch": 0.3366532736695653,
           "rotation": 0,
           "target": "2-pokj"
+        },
+        {
+          "yaw": -1.576756541757236,
+          "pitch": 0.409724914594193,
+          "rotation": 0,
+          "target": "3-salon1"
+        },
+        {
+          "yaw": -1.5746195628156823,
+          "pitch": 0.23930647133194505,
+          "rotation": 0,
+          "target": "5-salon3"
         }
       ],
       "infoHotspots": []
